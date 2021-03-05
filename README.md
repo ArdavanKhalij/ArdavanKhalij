@@ -4,7 +4,7 @@ I'm working with different programming languages such as Python, Swift, C, CPP, 
 I’m currently working on my Bachelor's Thesis at the University of Kashan, and I suggest that you take a look at it.<br/>
 I’m currently learning Javascript for my new projects.<br/><br/>
 if you have any questions from me, you can send me an Email:<br/>
-ardavan.akhalij@gmail.com
+ardavan.akhalij@gmail.com<br/>
 You can also contact me through my two accounts on instagram:<br/>
 @ardavan.a_khalij<br/>
 @ardavan_music<br/>

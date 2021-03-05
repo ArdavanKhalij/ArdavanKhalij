@@ -17,3 +17,7 @@ https://www.youtube.com/ardavan_khalij<br/><br/><br/>
 #### And Here you can see my language status on GitHub
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&show_icons=true&theme=gotham" alt="abhisheknaiidu" />

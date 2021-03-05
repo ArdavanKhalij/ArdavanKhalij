@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 <a href="https://www.instagram.com/ardavan.a_khalij/">
-  <img alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://www.instagram.com/ardavan_music/">
-  <img alt="Ardavan Music's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://www.instagram.com/ardavan.a_khalij/">
   <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://www.instagram.com/ardavan_music/">

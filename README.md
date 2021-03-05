@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://www.instagram.com/ardavan.a_khalij/">
-  <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://www.instagram.com/ardavan_music/">
-  <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://twitter.com/ardavan_khalij">
   <img align="left" alt="Ardavan Khalij's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

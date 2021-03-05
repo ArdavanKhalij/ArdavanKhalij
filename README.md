@@ -6,7 +6,7 @@ I’m currently learning Javascript for my new projects.<br/><br/>
 if you have any questions from me, you can send me an Email:<br/>
 ardavan.akhalij@gmail.com<br/>
 You can also contact me through my two accounts on instagram:<br/>
-@ardavan.a_khalij<br/>
-@ardavan_music<br/>
+https://www.instagram.com/ardavan.a_khalij/<br/>
+https://www.instagram.com/ardavan_music/<br/>
 Also, you can access to my youtube channel:<br/>
 Ardavan Khalij

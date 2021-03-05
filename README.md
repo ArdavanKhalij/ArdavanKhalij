@@ -34,9 +34,9 @@ https://www.instagram.com/ardavan_music/<br/><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <br/><br/>
-### And Here you can see my language status on GitHub
+### And Here you can see my language status on GitHub:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-### My GitHub Situation
+### My GitHub Situation:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&show_icons=true&theme=gotham" alt="abhisheknaiidu" />

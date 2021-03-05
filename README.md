@@ -18,7 +18,7 @@
 <br/><br/>
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am an undergraduate student at the University of Kashan.<br/>
-I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **PHP**, **SQL**, **Javascript**, and **Typescript**. I am also looking forward to studying master's and Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally, and I hope I can give you wonderful news from myself soon.<br/><br/>
+I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS** and **Javascript**. I am also looking forward to studying master's and Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally, and I hope I can give you wonderful news from myself soon.<br/><br/>
 
 I’m currently working on my Bachelor's Thesis at the University of Kashan under the supervision of Dr.Vahidipour from the Computer engineering department of the University of Kashan. You may find it interesting.<br/><br/>
 
@@ -30,7 +30,8 @@ ardavan.akhalij@gmail.com<br/><br/>
 ### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>

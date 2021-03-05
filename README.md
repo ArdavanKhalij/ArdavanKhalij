@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/ardavan.a_khalij/">
+  <img alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://www.instagram.com/ardavan_music/">
+  <img alt="Ardavan Khalij's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
 <a href="https://twitter.com/ardavan_khalij">
   <img align="left" alt="Ardavan Khalij | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -21,9 +27,6 @@ I’m currently learning **Javascript** for my new projects.<br/><br/>
 if you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.akhalij@gmail.com<br/><br/>
 
-You can also contact me through my two accounts on **Instagram**:<br/>
-https://www.instagram.com/ardavan.a_khalij/<br/>
-https://www.instagram.com/ardavan_music/<br/><br/>
 ### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

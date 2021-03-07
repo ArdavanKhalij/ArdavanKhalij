@@ -1,4 +1,4 @@
-![Hey there, I'm Ardavan. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+## Hi there 
 
 <a href="https://www.instagram.com/ardavan.a_khalij/">
   <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />

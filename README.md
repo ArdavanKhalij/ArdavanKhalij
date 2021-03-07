@@ -3,6 +3,9 @@
 <a href="https://www.instagram.com/ardavan.a_khalij/">
   <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/ardavan.khalij">
+  <img align="left" alt="Ardavan Khalij's Facebook" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/facebook.svg" />
+</a>
 <a href="https://www.discord.com/ardavan_khalij/">
   <img align="left" alt="Ardavan Khalij's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>

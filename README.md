@@ -4,7 +4,7 @@
   <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ardavan.khalij">
-  <img align="left" alt="Ardavan Khalij's Facebook" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommercerockstars.co%2Ffacebook-logo-png-5a35528eaa4f08-7998622015134439826976%2F&psig=AOvVaw3WwgHqGi2w-7LDR09V5DXS&ust=1615225233775000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNi26Yfdnu8CFQAAAAAdAAAAABAD" />
+  <img align="left" alt="Ardavan Khalij's Facebook" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.discord.com/ardavan_khalij/">
   <img align="left" alt="Ardavan Khalij's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />

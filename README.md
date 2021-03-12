@@ -34,7 +34,7 @@ I’m currently working on my Bachelor's Thesis at the University of Kashan unde
 
 I’m currently learning **Javascript** for my new projects.<br/><br/>
 
-if you have any questions from me, you can send me an **E-mail**:<br/>
+If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.akhalij@gmail.com<br/><br/>
 
 #### Languages and Tools:  

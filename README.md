@@ -24,6 +24,9 @@
 <a href="https://www.youtube.com/channel/UCYP81Ay41cZFnR0-Qx4-9Hw">
   <img align="left" alt="Ardavan Khalij's Youtube" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
+<a href="https://www.twitch.tv/ardavan_khalij">
+  <img align="left" alt="Ardavan Khalij's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+</a>
 <br/><br/>
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am an undergraduate student at the University of Kashan.

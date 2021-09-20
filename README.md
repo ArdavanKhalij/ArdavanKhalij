@@ -36,7 +36,7 @@ I'm working with various programming languages such as **Python**, **Swift**, **
 I’m currently focused on my university courses.<br/><br/>
 
 If you have any questions from me, you can send me an **E-mail**:<br/>
-ardavan.akhalij@gmail.com<br/><br/>
+ardavan.khalij@vub.be<br/><br/>
 
 #### Languages and Tools:  
 

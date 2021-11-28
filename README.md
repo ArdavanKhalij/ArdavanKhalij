@@ -26,6 +26,7 @@
 </a>
 <br/><br/>
 
+
 For those of you who wonder, My name is **Ardavan Khalij** and I am a Master student at Vrije Universiteit Brussel.
 Currently, I am living in Brussels, Belgium.<br/>
 I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS** and **Javascript**. I am also looking forward to studying Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally.<br/><br/>
@@ -49,7 +50,8 @@ ardavan.khalij@vub.be<br/><br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
 <br/><br/>
-
+#### My GitHub Situation:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My GitHub Situation:
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

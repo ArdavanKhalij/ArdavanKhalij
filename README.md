@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 
 <a href="https://www.instagram.com/ardavan.a_khalij/">
   <img align="left" alt="Ardavan Khalij's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
@@ -36,7 +36,7 @@ I’m currently focused on my university courses.<br/><br/>
 If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.khalij@vub.be<br/><br/>
 
-#### Languages and Tools:  
+### Languages and Tools:  
 
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_scala_icon_130180.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png"></code>
@@ -51,7 +51,5 @@ ardavan.khalij@vub.be<br/><br/>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
 <br/><br/>
 
-#### My GitHub Situation:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArdavanKhalij)](https://github.com/anuraghazra/github-readme-stats)
-
+### My GitHub Situation:
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

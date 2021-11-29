@@ -52,4 +52,7 @@ ardavan.khalij@vub.be<br/><br/>
 <br/><br/>
 
 ### My GitHub Situation:
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&count_private=true&show_icons=true&theme=dark&include_all_commits=true)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&layout=compact&hide=roff&theme=dark" />
+</p>

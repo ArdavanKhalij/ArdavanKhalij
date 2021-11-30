@@ -29,7 +29,7 @@
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am a Master student at Vrije Universiteit Brussel.
 Currently, I am living in Brussels, Belgium.<br/>
-I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS** and **Javascript**. I am also looking forward to studying Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally.<br/><br/>
+I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally.<br/><br/>
 
 I’m currently focused on my university courses.<br/><br/>
 

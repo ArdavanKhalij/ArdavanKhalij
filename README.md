@@ -56,7 +56,7 @@ ardavan.khalij@vub.be<br/><br/>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
 <code><img height="40" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183670.png?token=exp=1638538203~hmac=98c1788d11d75411a03c151050e3645a"></code>
-<code><img height="40" ![r-programming-language](https://user-images.githubusercontent.com/44583966/144753958-66a3611b-262c-4f0b-8a66-cf18f7635c1e.png)></code>
+<code><img height="40" https://user-images.githubusercontent.com/44583966/144753958-66a3611b-262c-4f0b-8a66-cf18f7635c1e.png></code>
 <br/><br/>
 <br/><br/>
 

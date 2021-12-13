@@ -29,10 +29,10 @@
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am a Graduate student in Computer Science, Artificial Intelligence at Vrije Universiteit Brussel (VUB).But before that, I was an undergraduate student in Computer Engineering at the University of Kashan.<br/>
 My main research interests are:<br/>
-### 1. Computational Creativity <br/>
-#### 2. Artificial Intelligence <br/>
-**3. Machine Learning** <br/>
-4. Data Mining <br/>
+1. **Computational Creativity**
+2. **Artificial Intelligence**
+3. **Machine Learning**
+4. **Data Mining** <br/>
 
 Currently, I am living in Brussels, Belgium 🇧🇪.<br/>
 I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying Ph.D. in **Artificial Intelligence** and **Machine Learning** in the top universities globally.<br/><br/>

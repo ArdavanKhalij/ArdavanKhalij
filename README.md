@@ -27,7 +27,7 @@
 <br/><br/>
 
 
-For those of you who wonder, My name is **Ardavan Khalij** and I am a **Graduate** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**.But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
+For those of you who wonder, My name is **Ardavan Khalij** and I am a **Graduate** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**. But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
 My main research interests are:<br/>
 1. **Computational Creativity**
 2. **Artificial Intelligence**

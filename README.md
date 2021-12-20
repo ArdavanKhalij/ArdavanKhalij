@@ -44,22 +44,22 @@ ardavan.khalij@vub.be<br/><br/>
 
 ### Languages and Tools:  
 
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183670.png?token=exp=1638538203~hmac=98c1788d11d75411a03c151050e3645a"></code>
-<code><img height="40" width="40" src ="https://user-images.githubusercontent.com/44583966/144753958-66a3611b-262c-4f0b-8a66-cf18f7635c1e.png"></code>
-<code><img height="40" width="40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPn_lJ_G1rykAFnMc9sVsDIVA-QH21HjfUJeJdPCasnQgubRkk15FMmMZps8C90XFFTE&usqp=CAU"></code>
-<code><img height="40" width="40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GaVhZrzOKgzJDsW_4V1pku_HyV52WePsBX3Z1ikQH7Hic1RUED8RuBjndqUoCcH_mys&usqp=CAU"></code>
-<code><img height="40" width="40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZy96YZ8HxnRKAInTlVPEyyniWTFVbwswHR1dkPNAoQT6vu1rITgZwcUjGAw8WyrP6YM&usqp=CAU"></code>
+<code><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png"></code>
+<code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png"></code>
+<code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
+<code><img height="35" width="35" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183670.png?token=exp=1638538203~hmac=98c1788d11d75411a03c151050e3645a"></code>
+<code><img height="35" width="35" src ="https://user-images.githubusercontent.com/44583966/144753958-66a3611b-262c-4f0b-8a66-cf18f7635c1e.png"></code>
+<code><img height="35" width="35" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPn_lJ_G1rykAFnMc9sVsDIVA-QH21HjfUJeJdPCasnQgubRkk15FMmMZps8C90XFFTE&usqp=CAU"></code>
+<code><img height="35" width="35" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GaVhZrzOKgzJDsW_4V1pku_HyV52WePsBX3Z1ikQH7Hic1RUED8RuBjndqUoCcH_mys&usqp=CAU"></code>
+<code><img height="35" width="35" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZy96YZ8HxnRKAInTlVPEyyniWTFVbwswHR1dkPNAoQT6vu1rITgZwcUjGAw8WyrP6YM&usqp=CAU"></code>
 <br/><br/>
 <br/><br/>
 

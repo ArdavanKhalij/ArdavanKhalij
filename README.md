@@ -21,8 +21,8 @@
 <a href="https://www.twitch.tv/ardavan_khalij">
   <img align="left" alt="Ardavan Khalij's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
-<br/><br/>
-
+<br/>
+<hr>
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am a **Graduate** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**. But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
 My main research interests are:<br/>
@@ -38,7 +38,7 @@ I’m currently focused on my university courses.<br/><br/>
 
 If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.khalij@vub.be<br/><br/>
-
+<hr>
 ### Languages and Tools:  
 
 <code><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png"></code>
@@ -54,9 +54,8 @@ ardavan.khalij@vub.be<br/><br/>
 <code><img height="35" width="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png"></code>
 <code><img height="35" width="35" src ="https://user-images.githubusercontent.com/44583966/144753958-66a3611b-262c-4f0b-8a66-cf18f7635c1e.png"></code>
 <code><img height="35" width="35" src ="https://cdn.goconqr.com/uploads/multiple_choice_question/image/1739897/desktop_b5ab7b14-47d1-4f3d-9d2a-bdf20701290e.jpeg"></code>
-<br/><br/>
-<br/><br/>
-
+<hr>
+<br/>
 ### 📊 Github Stats
 <br>
 <p align=center>
@@ -76,12 +75,4 @@ ardavan.khalij@vub.be<br/><br/>
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=ArdavanKhalij&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-
-### 📊 Github Stats
-<p>
-  <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ArdavanKhalij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdavanKhalij&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </p>

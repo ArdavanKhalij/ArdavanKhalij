@@ -15,9 +15,6 @@
 <a href="https://twitter.com/ardavan_khalij">
   <img align="left" alt="Ardavan Khalij's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ardavan-khalij-a217a3175/">
-  <img align="left" alt="Ardavan Khalij's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UCYP81Ay41cZFnR0-Qx4-9Hw">
   <img align="left" alt="Ardavan Khalij's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>

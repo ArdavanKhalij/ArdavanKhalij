@@ -1,25 +1,25 @@
 ## Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <a href="https://www.youtube.com/channel/UCYP81Ay41cZFnR0-Qx4-9Hw">
-  <img align="left" alt="Ardavan Khalij's Youtube" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Ardavan Khalij's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.twitch.tv/ardavan_khalij">
-  <img align="left" alt="Ardavan Khalij's Twitch" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Ardavan Khalij's Twitch" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
 <a href="https://www.instagram.com/ardavan.a_khalij/">
-  <img align="left" alt="Ardavan Khalij's Instagram" width="32px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
+  <img align="left" alt="Ardavan Khalij's Instagram" width="25px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ardavan.khalij">
-  <img align="left" alt="Ardavan Khalij's Facebook" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111398.png" />
+  <img align="left" alt="Ardavan Khalij's Facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111398.png" />
 </a>
 <a href="https://www.discord.com/ardavan_khalij/">
-  <img align="left" alt="Ardavan Khalij's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Ardavan Khalij's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/ardavan_music/">
-  <img align="left" alt="Ardavan Khalij's Instagram" width="32px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
+  <img align="left" alt="Ardavan Khalij's Instagram" width="25px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://twitter.com/ardavan_khalij">
-  <img align="left" alt="Ardavan Khalij's twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ardavan Khalij's twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br/>
 <hr>

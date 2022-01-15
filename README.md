@@ -1,5 +1,4 @@
 ## Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-### Please follow me if you like my codes and use my code in your work. Also, don't forget to give a star if you like or want to use a specific project.
 
 <a href="https://www.youtube.com/channel/UCYP81Ay41cZFnR0-Qx4-9Hw">
   <img align="left" alt="Ardavan Khalij's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
@@ -24,6 +23,8 @@
 </a>
 <br/>
 <hr>
+
+### Please follow me if you like my codes and use my code in your work. Also, don't forget to give a star if you like or want to use a specific project.
 
 For those of you who wonder, My name is **Ardavan Khalij** and I am a **Graduate** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**. But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
 My main research interests are:<br/>

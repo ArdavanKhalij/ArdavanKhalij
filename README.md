@@ -4,7 +4,7 @@
   <img align="left" alt="Ardavan Khalij's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.twitch.tv/ardavan_khalij">
-  <img align="left" alt="Ardavan Khalij's Twitch" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Ardavan Khalij's Twitch" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/LOGO_TWITCH_CAR_JE_LIVE_SUR_TWITCH_ET_J%27AI_60_000_ABONEE.png" />
 </a>
 <a href="https://www.instagram.com/ardavan.a_khalij/">
   <img align="left" alt="Ardavan Khalij's Instagram" width="25px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />

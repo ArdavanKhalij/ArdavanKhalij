@@ -33,8 +33,7 @@ My main research interests are:<br/>
 3. **Computational Creativity**
 4. **Data Mining** <br/>
 
-Currently, I am living in **Brussels**, **Belgium** 🇧🇪.<br/>
-I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning** and **Computational Creativity** in the top universities globally.<br/><br/>
+I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
 
 I’m currently focused on my university courses and my masters thesis under supervision of Dr. Geraint Wiggins and Mr. Nicholas Harley about creativity in traditional Iranian music.<br/><br/>
 

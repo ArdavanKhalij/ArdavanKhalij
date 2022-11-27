@@ -35,7 +35,7 @@ My main research interests are:<br/>
 
 I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
 
-I’m currently focused on my university courses and my masters thesis under supervision of Dr. Geraint Wiggins and Mr. Nicholas Harley about creativity in traditional Iranian music.<br/><br/>
+I’m currently focused on my university courses and my masters thesis under supervision of Dr. Geraint Wiggins and Dr. Nicholas Harley about creativity in traditional Iranian music.<br/><br/>
 
 If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.khalij@vub.be<br/><br/>

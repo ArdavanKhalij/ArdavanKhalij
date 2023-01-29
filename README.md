@@ -26,16 +26,16 @@
 
 ### Please follow me if you like my codes and use my code in your work. Also, don't forget to give a star if you like or want to use a specific project.
 
-For those of you who wonder, My name is **Ardavan Khalij** and I am a **Graduate** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**. But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
+For those of you who wonder, My name is **Ardavan Khalij** and I am a **Master's** student in **Computer Science**, **Artificial Intelligence** at **Vrije Universiteit Brussel (VUB)**. But before that, I was an **undergraduate** student in **Computer Engineering** at the **University of Kashan**.<br/>
 My main research interests are:<br/>
 1. **Artificial Intelligence**
 2. **Machine Learning**
-3. **Computational Creativity**
-4. **Data Mining** <br/>
+3. **Explainable AI**
+4. **Computational Creativity** <br/>
 
-I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
+I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Explainable AI**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
 
-I’m currently focused on my university courses and my masters thesis under supervision of Dr. Geraint Wiggins and Dr. Nicholas Harley about creativity in traditional Iranian music.<br/><br/>
+I’m currently focused on my university courses such as **Deep Learning**, **Reinforcement Learning**, **Computational Game Theory**, and **Natural Language Processing** and my masters thesis under supervision of Dr. Geraint Wiggins and Dr. Nicholas Harley about **creativity in traditional Iranian music**.<br/><br/>
 
 If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.khalij@vub.be<br/><br/>

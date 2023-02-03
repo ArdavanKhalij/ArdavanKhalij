@@ -31,7 +31,9 @@ My main research interests are:<br/>
 1. **Artificial Intelligence**
 2. **Machine Learning**
 3. **Explainable AI**
-4. **Computational Creativity** <br/>
+4. **Reinforcement Learning**
+5. **Deep Learning**
+6. **Computational Creativity** <br/>
 
 I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Explainable AI**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
 

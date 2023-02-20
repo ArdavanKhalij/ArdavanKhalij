@@ -38,12 +38,14 @@ My main research interests are:<br/>
 6. **Computational Creativity**
 7. **Music Informatic**<br/>
 
-I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence** ,  **Machine Learning**, **Explainable AI**, **Computational Creativity**, **Evolutionary Computation**, **Fuzzy Logic**, and **Data Mining** in the top universities globally.<br/><br/>
+I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Julia**, **Javascript** and **Prolog**. I am also looking forward to studying **Ph.D.** in **Artificial Intelligence**, **Machine Learning**, **Explainable AI**, **Reinforcement Learning**, **Deep Learning**, **Computational Creativity**, and **Music Informatic** in the top universities globally.<br/><br/>
 
 I’m currently focused on my university courses such as **Deep Learning**, **Reinforcement Learning**, **Computational Game Theory**, and **Natural Language Processing** and my masters thesis under supervision of Dr. Geraint Wiggins and Dr. Nicholas Harley about **creativity in traditional Iranian music**.<br/><br/>
 
 If you have any questions from me, you can send me an **E-mail**:<br/>
 ardavan.khalij@vub.be<br/><br/>
+
+My personal Website: https://ardavankhalij.github.io <br/><br/>
 <hr>
 
 ### Languages and Tools:  

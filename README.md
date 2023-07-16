@@ -47,7 +47,7 @@ I'm working with various programming languages such as **Python**, **Swift**, **
 <!-- I’m currently focused on my university courses such as **Deep Learning**, **Reinforcement Learning**, **Computational Game Theory**, and **Natural Language Processing** and my masters thesis under supervision of Dr. Geraint Wiggins and Dr. Nicholas Harley about **creativity in traditional Iranian music**.<br/><br/>
  -->
 If you have any questions from me, you can send me an **E-mail**:<br/>
-ardavan.khalij@vub.be<br/><br/>
+ardavankhalij@gmail.com<br/><br/>
 
 My personal Website: https://ardavankhalij.github.io <br/><br/>
 <hr>

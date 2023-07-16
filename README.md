@@ -36,11 +36,11 @@ For those of you who wonder, My name is **Ardavan Khalij** and I am a **Master's
 My main research interests are:<br/>
 1. **Artificial Intelligence**
 2. **Machine Learning**
-3. **Explainable AI**
-4. **Reinforcement Learning**
-5. **Deep Learning**
-6. **Computational Creativity**
-7. **Music Informatic**<br/>
+3. **Deep Learning**
+4. **Computational Creativity**
+5. **Music Informatic**<br/>
+6. **Reinforcement Learning**
+7. **Natural Language Processing**
 
 I'm working with various programming languages such as **Python**, **Swift**, **C**, **C++**, **HTML**, **CSS**, **Scala**, **Julia**, **Javascript** and **Prolog**.<br/><br/>
 

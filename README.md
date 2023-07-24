@@ -5,7 +5,7 @@
 ## Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <a href="https://www.linkedin.com/in/ardavan-khalij/">
-  <img align="left" alt="Ardavan Khalij's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ardavan Khalij's Linkedin" width="25px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw0iP9Mpg2LUadKOBz6iXmlj&ust=1690257634436000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJjJ-MO6poADFQAAAAAdAAAAABAQ" />
 <a href="https://www.youtube.com/channel/UCYP81Ay41cZFnR0-Qx4-9Hw">
   <img align="left" alt="Ardavan Khalij's Youtube" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
